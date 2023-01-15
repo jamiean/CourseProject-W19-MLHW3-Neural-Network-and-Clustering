@@ -1,4 +1,4 @@
-# CourseProject-W19-MLHW2-Neural Network and Clustering  
+# CourseProject-W19-MLHW3-Neural Network and Clustering  
 
 This is course project of Juncheng An. <Wintear 2019 - EECS 445 Introduction to Machine Learning - Homework 3>.
 
