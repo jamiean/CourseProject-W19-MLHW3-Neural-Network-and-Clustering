@@ -1,0 +1,5 @@
+{
+    "csv_file": "data/landmarks.csv",
+    "image_path": "data/images",
+    "image_dim": 32
+}
